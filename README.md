@@ -3,4 +3,4 @@ hello_world
 
 My First Repository in Github
 
-I'm new to web development. And want to be one of experienced guys.
+I'm new into software engineering and keen to see me as one of the great engineers.
